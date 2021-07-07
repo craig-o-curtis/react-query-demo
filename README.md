@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Query Demo
+
+Project from [Net Ninja tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpi7Ptjl5b50p9gLjOFani)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
